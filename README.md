@@ -4,12 +4,12 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
 
-## Demo
+## Overview
 
 You can view the live demo of my portfolio [here](https://mathiyarasi-soundar.github.io/).
 
