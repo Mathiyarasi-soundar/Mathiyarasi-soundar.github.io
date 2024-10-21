@@ -11,7 +11,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Demo
 
-You can view the live demo of my portfolio [here](Mathiyarasi-soundar.github.io).
+You can view the live demo of my portfolio [here](https://mathiyarasi-soundar.github.io/).
 
 ## Technologies Used
 
