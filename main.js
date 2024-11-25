@@ -41,7 +41,7 @@ const typed = new Typed('.multiple-text', {
 function sendMessage() {
     let section = document.getElementById('contact');
     (function () {
-        emailjs.init("8VSe3gmTiHoDg_1vR");
+        emailjs.init("aGz1YEBP3ZChzBzZw");
     })();
 
     var serviceID = "service_th9an5k";
