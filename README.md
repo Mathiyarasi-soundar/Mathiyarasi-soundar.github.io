@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and visionary as a web developer.
+Welcome to my personal portfolio! This project showcases my skills, projects, and visionary as a Data Analyst.
 
 ## Table of Contents
 
